@@ -1,8 +1,8 @@
 This is just a test to start examining web.py
 
-Download the code.
-Open it up using VS Code.
-Run the code.
+Download the code.  
+Open it up using VS Code.  
+Run the code.  
 In a browser try the following URLs:
 
 1. http://localhost:8080/
