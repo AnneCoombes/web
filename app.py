@@ -10,7 +10,7 @@ urls = (
 class count:
     def GET(self):
         total = 0
-        i = web.input(num=1, start=1)
+        i = web.input(num=10, start=1)
         return render.count(int(i.num), int(i.start))
 
 
